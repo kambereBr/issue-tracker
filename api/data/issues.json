@@ -1,0 +1,12 @@
+[
+    {
+      "id": 1,
+      "title": "Sample Issue 1",
+      "description": "Description for issue 1"
+    },
+    {
+      "id": 2,
+      "title": "Sample Issue 2",
+      "description": "Description for issue 2"
+    }
+  ]
